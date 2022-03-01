@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042042041875",
+    "project_id": "nhu-ne-563ab",
+    "storage_bucket": "nhu-ne-563ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042042041875:android:6795862ee14209d179f1e6",
+        "android_client_info": {
+          "package_name": "com.example.nhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042042041875-baoi0jo8q8g5it0m85uqm25io9du5loo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7JSC7W0vKsN5JZGumVn33su2vJGmQ6TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042042041875-baoi0jo8q8g5it0m85uqm25io9du5loo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
